@@ -1,0 +1,2 @@
+﻿CtC.obj : error LNK2019: unresolved external symbol "class cv::Mat __cdecl pre_process(class cv::Mat_<class cv::Vec<unsigned char,3> >)" (?pre_process@@YA?AVMat@cv@@V?$Mat_@V?$Vec@E$02@cv@@@2@@Z) referenced in function main
+C:\Users\L3IN\Documents\Visual Studio 2015\Projects\CtC\x64\Debug\CtC.exe : fatal error LNK1120: 1 unresolved externals
